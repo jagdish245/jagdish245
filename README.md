@@ -1,22 +1,28 @@
 <h1 align="center">Hello there! 👋 I'm Jagdish</h1>
-<h3 align="center">🌟 Computer Science Enthusiast | MCA Student | Full Stack Developer | Aspiring Tech Innovator 🚀</h3>
+<h3 align="center">
+🌟 Full Stack Developer | Computer Science Graduate | Building Reliable Web Systems 🚀
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jagdish245&label=Profile%20views&color=0e75b6&style=flat" alt="jagdish245" />
 </p>
 
-- 🌱 **Currently Learning**: Deep diving into the **MERN Stack** and exploring modern web development trends.
+- 💻 **What I Do**: I work as a Full Stack Developer, building and maintaining web applications with a focus on clean architecture, scalable APIs, and dependable user interfaces.
 
-- 🏫 **Education**: Pursuing my Master's at **Nirma University**, focusing on advanced computing concepts and software development.
+- 🎓 **Background**: Computer Science graduate with a strong foundation in software development and hands-on experience in real-world, production environments.
+
+- 🧠 **Interests**: Full stack web development, API design, system architecture, and continuously improving code quality.
 
 - 📫 **Get in Touch**: Feel free to reach out to me at **prjptjagadish61@gmail.com**.
 
-- ⚡ **Fun Fact**: 🎮 Aside from coding, I'm an avid gamer and enjoy immersing myself in the latest game worlds!
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/j_d_1010" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="j_d_1010" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/jagdish-prajapati-0299b0207" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jagdish-prajapati-0299b0207" height="30" width="40" /></a>
+  <a href="https://twitter.com/j_d_1010" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="j_d_1010" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/jagdish-prajapati-0299b0207" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jagdish-prajapati-0299b0207" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Skills & Technologies:</h3>
@@ -48,9 +54,6 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
@@ -66,20 +69,10 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a> 
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jagdish245&show_icons=true&locale=en&layout=compact" alt="jagdish245" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jagdish245&" alt="jagdish245" /></p>
